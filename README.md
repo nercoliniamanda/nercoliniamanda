@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é @nercoliniamanda
-- 👍 Meu email é amanda.nercolini@escola.pr.gov.br
+- 👋 Olá, meu nome é **@nercoliniamanda**
+- 👍 Meu email é [email](amanda.nercolini@escola.pr.gov.br)
 - 👀 Estou interessada em aprender a programar
 - 🌱 Estou aprendendo a programar novas linguagens
 
